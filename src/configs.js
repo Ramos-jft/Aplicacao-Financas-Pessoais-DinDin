@@ -10,5 +10,5 @@ module.exports = {
   dbPort: 5432,
   dbName: 'dindin',
   dbUser: 'postgres',
-  dbPassword: '783154'
+  dbPassword: '12345'
 };
